@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CST2335</string>
+
+    <!--    First screen buttons-->
+    <string name="button_text_guardian">The Guardian News</string>
+    <string name="button_text_nasa_image">NASA image of the day</string>
+    <string name="button_text_nasa_earth">NASA earth imagery</string>
+    <string name="button_text_BBC">BBC news</string>
+
+    <!--    Global -->
+    <string name="other_activities">अन्य गतिविधियां</string>
+    <string name="help">मदद</string>
+
+    <!--    Guardian News strings-->
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="search">लेख खोजें</string>
+    <string name="saved">सहेजे गए लेख</string>
+    <string name="article_saved">लेख सहेजा गया</string>
+    <string name="article_deleted">लेख हटा दिया गया</string>
+    <string name="action_save">लेख सहेजें</string>
+    <string name="action_delete">लेख हटाएँ</string>
+    <string name="article_section">अनुभाग:</string>
+    <string name="article_date">वेब प्रकाशन की तारीख:</string>
+    <string name="article_url">लिंक:</string>
+    <string name="article_delete_message">क्या आप वाकई इस लेख को हटाना चाहते हैं?</string>
+    <string name="article_delete_yes">हाँ</string>
+    <string name="article_delete_no">नहीं</string>
+    <string name="article_author">रचयिता:</string>
+    <string name="article_version">संस्करण:</string>
+    <string name="article_author_name">सुखमनदीप सिंह संधू</string>
+    <string name="article_help">1. नेविगेशन ड्रावर खोलने के लिए हैमबर्गर आइकन पर क्लिक करें।\n
+2. एक लेख खोजने के लिए \'लेख खोजें\' का चयन करें।\n
+3. एक लेख का शीर्षक टाइप करें और परिणाम प्राप्त करने के लिए खोज आइकन पर क्लिक करें।\n
+4. विवरण देखने के लिए लेख सूची पर क्लिक करें या बाद में देखने के लिए इसे सहेजें।\n
+5. आप सहेजे गए लेखों को \'सहेजे गए लेख\' पर क्लिक करके देख सकते हैं।</string>
+    <string name="article_ok">ठीक</string>
+
+    <string name="enter_article_title_to_search">खोज करने के लिए लेख शीर्षक दर्ज करें</string>
+    <string name="title_detail">लेख का विवरण</string>
+    <!--    NASA Image strings-->
+    <string name="image_hint_search">तारीख़ चुनें</string>
+    <string name="image_button_search">दिन की छवि खोजें</string>
+    <string name="image_detail_title">शीर्षक</string>
+    <string name="image_detail_explanation">विवरण</string>
+    <string name="image_detail_date">दिनांक</string>
+    <string name="image_detail_url">URL</string>
+    <string name="image_author_name">दक्ष</string>
+    <string name="image_okay">ठीक है</string>
+    <string name="image_help">- एक तारीख का चयन करें और छवि का शीर्षक प्राप्त करने के लिए बटन दबाएं।\n
+- छवि और विवरण देखने के लिए शीर्षक (सूची आइटम) पर क्लिक करें।\n
+- आप बाद में देखने के लिए सहेजें बटन दबाकर छवि को गैलरी में सहेज सकते हैं।\n
+- सहेजे गए चित्रों को दिखाने के लिए दराज से सहेजे गए चित्र का चयन करें।</string>
+    <string name="image_search_image">खोजें</string>
+    <string name="image_saved_image">सहेजे गए चित्र</string>
+    <string name="image_saved_success">छवि सफलतापूर्वक सहेजी गई</string>
+    <string name="image_delete_success">छवि को सफलतापूर्वक हटा दिया गया</string>
+    <string name="image_save_img">सहेजें</string>
+    <string name="image_delete_img">हटाएं</string>
+    <string name="image_toast_select_date">कृपया खोज करने के लिए एक तारीख़ चुनें</string>
+    <!--    NASA Earth strings-->
+    <string name="earth_image_search">छवि के लिए खोजें</string>
+    <string name="earth_image_fav">पसंदीदा</string>
+    <string name="earth_author_name">नेहा</string>
+    <string name="earth_author">रचयिता:</string>
+    <string name="earth_select_date">तारीख़ चुनें</string>
+    <string name="earth_author_version">संस्करण:</string>
+    <string name="earth_search">खोजें</string>
+    <string name="earth_enter_lat">अक्षांश दर्ज करें</string>
+    <string name="earth_enter_lon">देशांतर दर्ज करें</string>
+    <string name="earth_lat">अक्षांश</string>
+    <string name="earth_lon">देशान्तर</string>
+    <string name="earth_date">दिनांक</string>
+    <string name="earth_save">पसंदीदा में सहेजें</string>
+    <string name="earth_delete">पसंदीदा से हटाएं</string>
+    <string name="earth_saved">पसंदीदा में सहेजा गया</string>
+    <string name="earth_deleted">पसंदीदा से हटा दिया गया</string>
+    <string name="earth_help">- पहली स्क्रीन पर, अक्षांश और स्थान का देशांतर दर्ज करें और छवि की उपलब्धता की जांच करने के लिए \'खोज\' बटन दबाएं, यदि डेटा उस स्थान के लिए उपलब्ध है, तो परिणाम दिनांक और समय के रूप में दिखाया जाएगा, विस्तृत देखने के लिए उस पर टैप करें। जानकारी। \n
+- पसंदीदा पर विवरण सहेजने के लिए सहेजें पर क्लिक करें। \n
+- पसंदीदा देखने के लिए नेविगेशन दराज खोलें।</string>
+    <string name="earth_ok">ठीक है</string>
+    <string name="earth_error_data">डेटा प्राप्त करने में त्रुटि!</string>
+    <string name="earth_error">त्रुटि: </string>
+
+    <string name="earth_drawer_open">Open Drawer</string>
+    <string name="earth_drawer_close">Close drawer</string>
+    <!--    BBC News strings-->
+    <string name="bbc_drawer_open">Open drawer</string>
+    <string name="bbc_drawer_close">Close drawer</string>
+    <string name="bbc_latest_news">ताज़ा खबर</string>
+    <string name="bbc_saved_news">सहेजे गए समाचार</string>
+    <string name="bbc_author_name">मनजोत कौर धरनी</string>
+    <string name="bbc_button_save">सहेजें</string>
+    <string name="bbc_button_delete">हटाएं</string>
+    <string name="bbc_snack_saved">समाचार सहेजे गए</string>
+    <string name="bbc_snack_deleted">समाचार हटा दिया गया</string>
+    <string name="bbc_toast_last_viewed">यह अंतिम देखा गया लेख है, लेखों की सूची देखने के लिए back दबाएं।</string>
+    <string name="bbc_help">- नेविगेशन ड्रॉअर खोलने के लिए शीर्ष बाएं कोने \'दराज\' आइकन पर क्लिक करें। \n
+- नवीनतम समाचार देखने के लिए \'ताज़ा खबर\' का चयन करें। \n
+- ऑफ़लाइन सहेजे गए समाचार देखने के लिए \'सहेजे गए समाचार\' का चयन करें। \n
+- विवरण देखने के लिए समाचार पर क्लिक करें और इसे ऑफ़लाइन सहेजें या हटाएं। \n
+- अन्य मॉड्यूल देखने के लिए अन्य गतिविधियों पर क्लिक करें।</string>
+    <string name="bbc_got_it">समझ गया</string>
+    <string name="bbc_text_desc">विवरण</string>
+    <string name="bbc_text_pub_date">प्रकाशित तिथि</string>
+    <string name="bbc_text_link">लिंक</string>
+</resources>
